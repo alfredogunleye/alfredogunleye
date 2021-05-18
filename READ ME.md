@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alfredogunleye
-- 👀 I’m interested in playing soccer, video games and working with computer
+- 👀 I’m interested in playing soccer, listening music and playing video games
 - 🌱 I’m currently learning the R language
 - 💞️ I’m looking to collaborate on with anybody using R. Literally will try anything and everything regarding R
 - 📫 How to reach me ... alfredogunleye94@gmail.com, on twitter @alfredogun
